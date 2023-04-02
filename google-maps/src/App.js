@@ -1,10 +1,13 @@
 import React from "react";
+import TestMap from "./TestMap";
+
 
 function App() {
-  return (
-    <div>
-    </div>
-  );
+    return (
+        <div>
+            <TestMap/>
+        </div>
+    );
 }
 
 export default App;
